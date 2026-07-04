@@ -1,0 +1,6 @@
+{
+  "name": "Ubutaka Smart Land Platform",
+  "description": "An enterprise-grade, coordinate-based land administration, GIS registry, and survey management platform inspired by Rwanda's Land Administration Information System (LAIS).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
